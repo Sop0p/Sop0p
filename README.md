@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 😃
+Estudante 
+Me chamo Nicolas Pegorin
 
-<!--
-**Sop0p/Sop0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### E-mail : 00001102119787sp@al.educacao.sp.gov.br
+Saiba um pouco sobre mim:
+Gosto de jogos
+Sushi
+Jogo preferido: Roblox, minecraft e Transformice
+matéria favorita: Biologia e Inglês
+.
+Aluno do Professor Rafael em Tecnologia
+* Aprendendo e criando projetos. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
